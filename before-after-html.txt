@@ -1,0 +1,63 @@
+  <!-- BEFORE / AFTER -->
+  <section class="section before-after" id="before-after">
+    <div class="wrap">
+      <p class="eyebrow">Результаты</p>
+      <h2>До и после</h2>
+      <p class="section-lead">Фотографии реальных пациентов, опубликованные с их согласия. Итоговый результат всегда индивидуален и зависит от анатомических особенностей.</p>
+
+      <div class="ba-grid">
+
+        <article class="ba-card">
+          <div class="ba-images">
+            <figure><img src="ba-1-before.jpg" alt="До операции"><figcaption>До</figcaption></figure>
+            <figure><img src="ba-1-after.jpg" alt="После операции"><figcaption>После</figcaption></figure>
+          </div>
+          <p class="ba-label">Блефаропластика</p>
+        </article>
+
+        <article class="ba-card">
+          <div class="ba-images">
+            <figure><img src="ba-2-before.jpg" alt="До операции"><figcaption>До</figcaption></figure>
+            <figure><img src="ba-2-after.jpg" alt="После операции"><figcaption>После</figcaption></figure>
+          </div>
+          <p class="ba-label">Ринопластика</p>
+        </article>
+
+        <article class="ba-card">
+          <div class="ba-images">
+            <figure><img src="ba-3-before.jpg" alt="До операции"><figcaption>До</figcaption></figure>
+            <figure><img src="ba-3-after.jpg" alt="После операции"><figcaption>После</figcaption></figure>
+          </div>
+          <p class="ba-label">Абдоминопластика</p>
+        </article>
+
+        <article class="ba-card">
+          <div class="ba-images">
+            <figure><img src="ba-4-before.jpg" alt="До операции"><figcaption>До</figcaption></figure>
+            <figure><img src="ba-4-after.jpg" alt="После операции"><figcaption>После</figcaption></figure>
+          </div>
+          <p class="ba-label">Пластика молочных желёз</p>
+        </article>
+
+        <article class="ba-card">
+          <div class="ba-images">
+            <figure><img src="ba-5-before.jpg" alt="До операции"><figcaption>До</figcaption></figure>
+            <figure><img src="ba-5-after.jpg" alt="После операции"><figcaption>После</figcaption></figure>
+          </div>
+          <p class="ba-label">Коррекция овала лица</p>
+        </article>
+
+        <article class="ba-card">
+          <div class="ba-images">
+            <figure><img src="ba-6-before.jpg" alt="До операции"><figcaption>До</figcaption></figure>
+            <figure><img src="ba-6-after.jpg" alt="После операции"><figcaption>После</figcaption></figure>
+          </div>
+          <p class="ba-label">Отопластика</p>
+        </article>
+
+      </div>
+
+      <p class="ba-note">Публикация фотографий согласована с пациентами. Результат может отличаться в зависимости от индивидуальных особенностей.</p>
+    </div>
+  </section>
+
